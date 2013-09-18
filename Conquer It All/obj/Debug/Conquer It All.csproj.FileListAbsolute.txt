@@ -1,0 +1,22 @@
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\ConquerItAll.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\CardDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\ConquerItAll.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\CardDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\App.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All_MarkupCompile.cache
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All.g.resources
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer_It_All.Properties.Resources.resources
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All.csproj.GenerateResource.Cache
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\NotificationDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\NotificationDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Debug\Conquer It All.exe.config
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Debug\Conquer It All.exe
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Debug\Conquer It All.pdb
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All.exe
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All.pdb
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\InfantryDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\InfantryDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\StartDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\StartDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Debug\Conquer It All_MarkupCompile.lref

@@ -1,0 +1,22 @@
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Release\Conquer It All.exe.config
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Release\Conquer It All.exe
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Release\Conquer It All.pdb
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\bin\Release\WPFToolkit.Extended.dll
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\CardDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\NotificationDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\NotificationView.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\StartDialog.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\ConquerItAllView.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\CardDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\NotificationDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\NotificationView.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\StartDialog.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\App.g.cs
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All_MarkupCompile.cache
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All_MarkupCompile.lref
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\ConquerItAllView.baml
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All.g.resources
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer_It_All.Properties.Resources.resources
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All.csproj.GenerateResource.Cache
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All.exe
+E:\Programming\Visual Studio 2012\Conquer It All\Conquer It All\obj\Release\Conquer It All.pdb

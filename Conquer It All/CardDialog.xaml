@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="Conquer_It_All.CardDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500">
+            <Grid>
+                <Border x:Name="border" Background="#90000000" Visibility="{Binding Visibility}">
+                <Border BorderBrush="Black" BorderThickness="1" Background="#FF7C8791" 
+                    CornerRadius="10,0,10,0" VerticalAlignment="Center"
+                    HorizontalAlignment="Center" Height="400" Width="400">
+                <Border.BitmapEffect>
+                <DropShadowBitmapEffect Color="Black" 
+                  Opacity="0.5" Direction="270" 
+                  ShadowDepth="0.7" />
+                </Border.BitmapEffect>
+
+                <StackPanel Margin="10" Width="{Binding Width, ElementName=border}" Height="{Binding Height, ElementName=border}" Orientation="Vertical">
+                    <Grid Height="50" Margin="0,0,0,50">
+                        <Label Content="Player Name Cards" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24"/>
+                    </Grid>
+                    <StackPanel Height="180" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,15">
+                            <Image Source="card.jpg" Height="75" Width="50" Margin="15,0"/>
+                            <Image Source="card.jpg" Height="75" Width="50" Margin="15,0"/>
+                            <Image Source="card.jpg" Height="75" Width="50" Margin="15,0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,15,0,0">
+                            <Image Source="card.jpg" Height="75" Width="50" Margin="15,0"/>
+                            <Image Source="card.jpg" Height="75" Width="50" Margin="15,0"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <Grid Height="50" HorizontalAlignment="Left" Width="378">
+                        <Button Content="Turn in selected cards" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="257,28,0,0"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>
